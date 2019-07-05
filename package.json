@@ -1,6 +1,6 @@
 {
     "name": "jan-test-1",
     "dependencies": {
-        "neighbourhoodie-test-package": "58.5.0"
+        "neighbourhoodie-test-package": "63.1.0"
     }
 }
